@@ -1,0 +1,97 @@
+body{
+    background-color:floralwhite;
+  }
+  .main{
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+  }
+  .main1{
+    color: black;
+    margin-top: 45px;
+  }
+  .sub{
+  color: rgb(126, 122, 122);
+  }
+  .form-control{
+    padding: 7px 0 7px 0;
+    
+  }
+  #add{
+    margin-top: 30px;
+    padding: 10px 40px 10px 40px;
+  }
+  .list{
+    border: 1px solid black;
+  }
+  .checkbox-input{
+    margin-top: 30px;
+    position: relative;
+    top:6px;
+  }
+  .label-container{ 
+    margin-top: 20px;   
+    border: 1px solid skyblue;
+    border-left: 5px solid rgb(92, 194, 235);
+    margin-left: 70px;
+    margin-top: 3px;
+    padding-right: 75%;
+    text-align:center;
+    background-color:rgb(180, 210, 221);
+    /* position: relative;
+    top:40px; */
+    border-radius: 5px;
+  }
+  .label-element{
+    padding-right:30px;
+    /* size: 10px; */
+  }
+  input[type=checkbox] {
+    zoom: 1.9;
+  }
+  .check-box{
+    position: relative;
+    top: 22px;
+  }
+  .container1{
+    margin-top: 1px;
+    width: 100%;
+    height: 50px;
+  }
+  /* .data{
+    border-left: 10px solid skyblue;
+    background-color: rgb(172, 205, 218);
+    border-radius: 5px;
+    padding: 9px 70% 9px 50px;
+    margin-left: 40px;
+    width: 90%;
+  }  */
+  
+
+  .data{
+    margin-top:5px;
+    margin-left:40px;
+    padding:7px 7px;
+    border-radius: 5px;
+    background-color:rgb(172, 205, 218);
+    padding-left: 10px;
+    width:95%;
+    border-left: 10px solid skyblue;
+    
+  }
+  .checked{
+    text-decoration: line-through;
+  }
+  .delete-icon-container {
+    position: relative;
+    left: 93%;
+    bottom: 45px;
+    text-align: right;
+    width: 90px;
+  }
+  
+  #trash{
+    padding: 15px;
+    margin-right: 110px;
+    zoom: 1.1;
+  }
